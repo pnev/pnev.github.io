@@ -1,0 +1,25 @@
+div.about {
+  font-size: 20px;
+  font-family: times new roman;
+  padding: 15px 15px 15px 15px;
+  text-align: center;
+  border: solid purple 10px;
+}
+div.profile {
+  border: solid black 10px;
+  text-align: center;
+  font-size: 40px;
+  font-family: times new roman;
+  padding: 10px 10px 10px 10px;
+}
+li {
+  font-size: 20px;
+}
+body {
+      margin: 5px 150px 10px 150px;
+      background-color: #CC99FF
+}
+p {
+      font-size: 18px;
+      text-align: left;
+}
